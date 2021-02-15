@@ -1,0 +1,7 @@
+C:\Users\Ante Ujcic\source\repos\KolekcijaKlasaList\KolekcijaKlasaList\bin\Debug\KolekcijaKlasaList.exe.config
+C:\Users\Ante Ujcic\source\repos\KolekcijaKlasaList\KolekcijaKlasaList\bin\Debug\KolekcijaKlasaList.exe
+C:\Users\Ante Ujcic\source\repos\KolekcijaKlasaList\KolekcijaKlasaList\bin\Debug\KolekcijaKlasaList.pdb
+C:\Users\Ante Ujcic\source\repos\KolekcijaKlasaList\KolekcijaKlasaList\obj\Debug\KolekcijaKlasaList.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\KolekcijaKlasaList\KolekcijaKlasaList\obj\Debug\KolekcijaKlasaList.exe
+C:\Users\Ante Ujcic\source\repos\KolekcijaKlasaList\KolekcijaKlasaList\obj\Debug\KolekcijaKlasaList.pdb
+C:\Users\Ante Ujcic\source\repos\KolekcijaKlasaList\KolekcijaKlasaList\obj\Debug\KolekcijaKlasaList.csprojAssemblyReference.cache
