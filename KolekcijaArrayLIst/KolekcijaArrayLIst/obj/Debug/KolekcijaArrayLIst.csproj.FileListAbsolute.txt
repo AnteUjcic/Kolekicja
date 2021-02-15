@@ -1,0 +1,7 @@
+C:\Users\Ante Ujcic\source\repos\KolekcijaArrayLIst\KolekcijaArrayLIst\bin\Debug\KolekcijaArrayLIst.exe.config
+C:\Users\Ante Ujcic\source\repos\KolekcijaArrayLIst\KolekcijaArrayLIst\bin\Debug\KolekcijaArrayLIst.exe
+C:\Users\Ante Ujcic\source\repos\KolekcijaArrayLIst\KolekcijaArrayLIst\bin\Debug\KolekcijaArrayLIst.pdb
+C:\Users\Ante Ujcic\source\repos\KolekcijaArrayLIst\KolekcijaArrayLIst\obj\Debug\KolekcijaArrayLIst.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\KolekcijaArrayLIst\KolekcijaArrayLIst\obj\Debug\KolekcijaArrayLIst.exe
+C:\Users\Ante Ujcic\source\repos\KolekcijaArrayLIst\KolekcijaArrayLIst\obj\Debug\KolekcijaArrayLIst.pdb
+C:\Users\Ante Ujcic\source\repos\KolekcijaArrayLIst\KolekcijaArrayLIst\obj\Debug\KolekcijaArrayLIst.csprojAssemblyReference.cache
